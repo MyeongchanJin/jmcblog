@@ -30,7 +30,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>4.2.3.RELEASE</version>
+			<version>5.2.4.RELEASE</version>
 		</dependency>
 		
 		<!-- JSTL 사용하기 위한 dependency -->
